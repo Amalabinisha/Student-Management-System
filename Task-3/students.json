@@ -1,0 +1,15 @@
+[
+    {
+        "id": "STU001",
+        "name": "Binisha",
+        "age": 20,
+        "marks": {
+            "Math": 97.0,
+            "Science": 69.0,
+            "English": 96.0
+        },
+        "average": 87.33,
+        "grade": "A",
+        "date_added": "2026-06-16 00:03"
+    }
+]
